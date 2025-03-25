@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "entrada-de-variaveis",
+  "version": "1.0.0",
+  "main": "Projeto.js",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Projeto.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
